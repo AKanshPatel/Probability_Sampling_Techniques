@@ -8,7 +8,7 @@ This repository provides a **hands-on demonstration** of probability sampling te
 <img width="1536" height="1024" alt="Cover horizaontal" src="https://github.com/user-attachments/assets/ebbd3830-9a15-4b33-9946-fabd2e45dd57" />
 
 ## 📌 Features: 
-* Generates a **synthetic dataset **based on **normal distribution **(for numeric data) and **probability-based generation **(for categorical data).
+* Generates a **synthetic dataset** based on **normal distribution**(for numeric data) and **probability-based generation**(for categorical data).
 * Implements and explains four probability sampling techniques:
   * **Simple Random Sampling**
   * **Systematic Sampling**
